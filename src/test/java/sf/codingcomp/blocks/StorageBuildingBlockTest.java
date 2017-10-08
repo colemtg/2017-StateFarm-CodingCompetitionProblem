@@ -4,7 +4,7 @@ import main.java.sf.codingcomp.blocks.solution.BuildingBlock;
 import org.junit.Before;
 import org.junit.Test;
 import sf.codingcomp.blocks.StorageBuildingBlock;
-import sf.codingcomp.blocks.solution.StorageBuildingBlockImpl;
+import main.java.sf.codingcomp.blocks.solution.StorageBuildingBlockImpl;
 
 import java.util.Iterator;
 

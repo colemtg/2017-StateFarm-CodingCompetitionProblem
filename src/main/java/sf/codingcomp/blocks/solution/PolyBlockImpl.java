@@ -1,4 +1,4 @@
-package sf.codingcomp.blocks.solution;
+package main.java.sf.codingcomp.blocks.solution;
 
 import java.util.Iterator;
 

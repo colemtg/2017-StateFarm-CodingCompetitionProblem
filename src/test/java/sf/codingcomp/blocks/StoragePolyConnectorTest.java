@@ -6,7 +6,7 @@ import main.java.sf.codingcomp.blocks.StoragePolyBlock;
 import org.junit.Before;
 import org.junit.Test;
 
-import sf.codingcomp.blocks.solution.StoragePolyBlockImpl;
+import main.java.sf.codingcomp.blocks.solution.StoragePolyBlockImpl;
 
 public class StoragePolyConnectorTest extends PolyBlockTest {
 
