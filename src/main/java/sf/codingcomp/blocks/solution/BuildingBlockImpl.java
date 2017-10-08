@@ -11,6 +11,10 @@ public class BuildingBlockImpl implements BuildingBlock {
     @Override
     public Iterator<BuildingBlock> iterator() {
         // TODO Auto-generated method stub
+        while(iterator().hasNext())
+        {
+            iterator().next();
+        }
         return null;
     }
 

@@ -15,7 +15,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import sf.codingcomp.blocks.PolyBlock;
-import sf.codingcomp.blocks.solution.PolyBlockImpl;
+import main.java.sf.codingcomp.blocks.solution.PolyBlockImpl;
 
 public class PolyBlockTest {
 

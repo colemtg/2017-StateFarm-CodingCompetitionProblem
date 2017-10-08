@@ -1,4 +1,4 @@
-package sf.codingcomp.blocks;
+package main.java.sf.codingcomp.blocks;
 
 
 import main.java.sf.codingcomp.blocks.solution.BuildingBlock;
