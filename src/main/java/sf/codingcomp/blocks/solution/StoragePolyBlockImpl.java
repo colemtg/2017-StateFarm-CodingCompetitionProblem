@@ -1,6 +1,7 @@
 package main.java.sf.codingcomp.blocks.solution;
 
-import sf.codingcomp.blocks.StoragePolyBlock;
+
+import main.java.sf.codingcomp.blocks.StoragePolyBlock;
 import sf.codingcomp.blocks.solution.PolyBlockImpl;
 
 public class StoragePolyBlockImpl<T> extends PolyBlockImpl implements StoragePolyBlock<T> {

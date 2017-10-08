@@ -3,10 +3,11 @@ package test.java.sf.codingcomp.blocks;
 import static org.junit.Assert.assertEquals;
 
 import main.java.sf.codingcomp.blocks.StoragePolyBlock;
+import main.java.sf.codingcomp.blocks.solution.StoragePolyBlockImpl;
 import org.junit.Before;
 import org.junit.Test;
 
-import sf.codingcomp.blocks.solution.StoragePolyBlockImpl;
+
 
 public class StoragePolyConnectorTest extends PolyBlockTest {
 
