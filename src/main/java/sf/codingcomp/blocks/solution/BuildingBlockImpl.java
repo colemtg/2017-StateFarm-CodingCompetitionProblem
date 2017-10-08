@@ -1,8 +1,8 @@
-package sf.codingcomp.blocks.solution;
+package main.java.sf.codingcomp.blocks.solution;
 
 import java.util.Iterator;
 
-import sf.codingcomp.blocks.BuildingBlock;
+import main.java.sf.codingcomp.blocks.solution.BuildingBlock;
 
 public class BuildingBlockImpl implements BuildingBlock {
 

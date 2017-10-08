@@ -1,4 +1,4 @@
-package sf.codingcomp.blocks;
+package test.java.sf.codingcomp.blocks;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -14,6 +14,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import sf.codingcomp.blocks.PolyBlock;
 import sf.codingcomp.blocks.solution.PolyBlockImpl;
 
 public class PolyBlockTest {

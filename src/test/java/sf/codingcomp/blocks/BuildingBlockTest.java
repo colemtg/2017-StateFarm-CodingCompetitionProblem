@@ -1,18 +1,14 @@
-package sf.codingcomp.blocks;
-
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertNull;
-import static org.junit.Assert.assertSame;
-import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.fail;
+package test.java.sf.codingcomp.blocks;
+import main.java.sf.codingcomp.blocks.CircularReferenceException;
+import main.java.sf.codingcomp.blocks.solution.BuildingBlock;
+import org.junit.Before;
+import org.junit.Test;
+import main.java.sf.codingcomp.blocks.solution.BuildingBlockImpl;
 
 import java.util.Iterator;
 
-import org.junit.Before;
-import org.junit.Test;
+import static org.junit.Assert.*;
 
-import sf.codingcomp.blocks.solution.BuildingBlockImpl;
 
 public class BuildingBlockTest {
 

@@ -1,7 +1,8 @@
-package sf.codingcomp.blocks;
+package test.java.sf.codingcomp.blocks;
 
 import static org.junit.Assert.assertEquals;
 
+import main.java.sf.codingcomp.blocks.StoragePolyBlock;
 import org.junit.Before;
 import org.junit.Test;
 

@@ -1,14 +1,15 @@
-package sf.codingcomp.blocks;
+package test.java.sf.codingcomp.blocks;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNull;
+import main.java.sf.codingcomp.blocks.solution.BuildingBlock;
+import org.junit.Before;
+import org.junit.Test;
+import sf.codingcomp.blocks.StorageBuildingBlock;
+import sf.codingcomp.blocks.solution.StorageBuildingBlockImpl;
 
 import java.util.Iterator;
 
-import org.junit.Before;
-import org.junit.Test;
-
-import sf.codingcomp.blocks.solution.StorageBuildingBlockImpl;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
 
 public class StorageBuildingBlockTest extends BuildingBlockTest {
 

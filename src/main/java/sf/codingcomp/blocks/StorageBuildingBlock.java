@@ -1,6 +1,8 @@
 package sf.codingcomp.blocks;
 
 
+import main.java.sf.codingcomp.blocks.solution.BuildingBlock;
+
 /**
  * 
  * Like a BuildingBlock, but it also manages a value
