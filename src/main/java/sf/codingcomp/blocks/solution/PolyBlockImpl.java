@@ -1,8 +1,9 @@
 package main.java.sf.codingcomp.blocks.solution;
 
+import main.java.sf.codingcomp.blocks.PolyBlock;
+
 import java.util.Iterator;
 
-import sf.codingcomp.blocks.PolyBlock;
 
 public class PolyBlockImpl implements PolyBlock {
 

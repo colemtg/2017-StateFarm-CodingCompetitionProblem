@@ -1,6 +1,7 @@
 package main.java.sf.codingcomp.blocks.solution;
 
-import sf.codingcomp.blocks.StorageBuildingBlock;
+
+import main.java.sf.codingcomp.blocks.StorageBuildingBlock;
 
 public class StorageBuildingBlockImpl<T> extends BuildingBlockImpl implements StorageBuildingBlock<T> {
 

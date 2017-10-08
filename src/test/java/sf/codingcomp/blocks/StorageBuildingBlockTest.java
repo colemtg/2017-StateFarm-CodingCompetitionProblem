@@ -1,11 +1,10 @@
 package test.java.sf.codingcomp.blocks;
 
+import main.java.sf.codingcomp.blocks.StorageBuildingBlock;
 import main.java.sf.codingcomp.blocks.solution.BuildingBlock;
-import main.java.sf.codingcomp.blocks.solution.StorageBuildingBlockImpl;
 import org.junit.Before;
 import org.junit.Test;
-import sf.codingcomp.blocks.StorageBuildingBlock;
-
+import main.java.sf.codingcomp.blocks.solution.StorageBuildingBlockImpl;
 
 import java.util.Iterator;
 

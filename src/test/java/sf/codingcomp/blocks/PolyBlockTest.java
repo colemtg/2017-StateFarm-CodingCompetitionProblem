@@ -10,11 +10,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+import main.java.sf.codingcomp.blocks.PolyBlock;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import sf.codingcomp.blocks.PolyBlock;
 import main.java.sf.codingcomp.blocks.solution.PolyBlockImpl;
 
 public class PolyBlockTest {
